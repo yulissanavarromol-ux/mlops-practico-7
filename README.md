@@ -100,4 +100,4 @@ Archivos almacenados en S3
 
 ##Repositorio 
 
-https://github.com/TU-USUARIO/mlops-practico-7
+https://github.com/yulissanavarromol-ux/mlops-practico-7
